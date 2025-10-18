@@ -21,7 +21,7 @@ function ProjectCard({ project }) {
         <p className="text-center ml-3 text-[#16f2b3] text-base lg:text-xl">
           {project.name}
         </p>
-        <p className="flex items-end justify-evenly w-full py-2">
+        <p className="flex justify-center w-full py-4 gap-3">
           <Link
             href={project.demo}
             target='_blank'
