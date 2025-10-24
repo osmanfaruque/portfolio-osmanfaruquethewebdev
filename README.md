@@ -546,7 +546,7 @@ I'd love to hear from you! Let's connect and create something amazing together! 
 
 📍 **Location**: Bashabo, Dhaka, Bangladesh  
 📞 **Phone**: +88013245337799  
-💼 **Resume**: [View My Resume](https://drive.google.com/file/d/1gsQbVGeqAnqh6ifKzdSIAZpxBHmSw3q2/view?usp=sharing)
+💼 **Resume**: [View My Resume](https://drive.google.com/file/d/1d1Dz1PcwE6FD_2WQ13QdBu895FSazdnK/view?usp=sharing)
 
 </div>
 
