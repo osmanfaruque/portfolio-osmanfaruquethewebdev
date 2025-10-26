@@ -20,7 +20,7 @@ const SingleProject = ({ project }) => {
       <div className="max-w-7xl mx-auto">
         {/* Back Button */}
         <div className="mb-8">
-          <a
+          <Link
             href="/#projects"
             className="inline-flex items-center text-[#16f2b3] hover:text-pink-500 transition-colors duration-200"
           >
@@ -38,7 +38,7 @@ const SingleProject = ({ project }) => {
               />
             </svg>
             Back to Projects
-          </a>
+          </Link>
         </div>
 
         {/* Main Project Card */}
