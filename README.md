@@ -9,7 +9,7 @@
 
 ### ✨ Where Code Meets Creativity ✨
 
-*A modern, responsive, and feature-rich portfolio showcasing my journey as a Full Stack Web Developer*
+_A modern, responsive, and feature-rich portfolio showcasing my journey as a Full Stack Web Developer_
 
 [🚀 Live ](https://osmanfaruquethewebdev.vercel.app/) | [📧 Contact Me](mailto:faruqueosman01@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/osmanfaruque/)
 
@@ -35,9 +35,10 @@
 
 ## 🎯 About This Project
 
-Hey there! 👋 Welcome to my digital playground! This isn't just another portfolio website – it's a **carefully crafted masterpiece** that represents my passion for web development and my journey as a **Full Stack Developer**. 
+Hey there! 👋 Welcome to my digital playground! This isn't just another portfolio website – it's a **carefully crafted masterpiece** that represents my passion for web development and my journey as a **Full Stack Developer**.
 
 This project is a testament to my ability to:
+
 - 🎨 Design beautiful, user-friendly interfaces
 - ⚡ Build lightning-fast, optimized web applications
 - 🧩 Architect scalable and maintainable code
@@ -57,6 +58,7 @@ Every line of code in this portfolio reflects my commitment to **clean code**, *
 <td width="50%">
 
 #### 🦸‍♂️ Hero Section
+
 - **Dynamic greeting** with smooth animations
 - **Eye-catching introduction** with professional photo
 - **Social media integration** for easy connection
@@ -66,6 +68,7 @@ Every line of code in this portfolio reflects my commitment to **clean code**, *
 <td width="50%">
 
 #### 👨‍💻 About Me
+
 - **Detailed professional biography**
 - **Personal touch** with humanized content
 - **Career objectives** and aspirations
@@ -77,6 +80,7 @@ Every line of code in this portfolio reflects my commitment to **clean code**, *
 <td width="50%">
 
 #### 💼 Experience Showcase
+
 - **Timeline-based display** of work history
 - **Role descriptions** with achievements
 - **Company details** and duration
@@ -86,6 +90,7 @@ Every line of code in this portfolio reflects my commitment to **clean code**, *
 <td width="50%">
 
 #### 🎓 Education Section
+
 - **Academic background** presentation
 - **Certifications** and courses
 - **Learning milestones**
@@ -97,6 +102,7 @@ Every line of code in this portfolio reflects my commitment to **clean code**, *
 <td width="50%">
 
 #### 🛠️ Skills Gallery
+
 - **Interactive skill cards** with beautiful hover effects
 - **Technology logos** with smooth marquee animation
 - **Categorized expertise** display
@@ -106,6 +112,7 @@ Every line of code in this portfolio reflects my commitment to **clean code**, *
 <td width="50%">
 
 #### 🚀 Projects Portfolio
+
 - **Detailed project cards** with descriptions
 - **Live demo links** and GitHub repositories
 - **Technology stack** used in each project
@@ -117,6 +124,7 @@ Every line of code in this portfolio reflects my commitment to **clean code**, *
 <td width="50%">
 
 #### 📧 Contact Form
+
 - **Functional contact system** with EmailJS integration
 - **Google reCAPTCHA** for spam protection
 - **Real-time validation** with user feedback
@@ -127,6 +135,7 @@ Every line of code in this portfolio reflects my commitment to **clean code**, *
 <td width="50%">
 
 #### 🎨 UI/UX Excellence
+
 - **Smooth scroll animations** with Lottie
 - **Glow card effects** for visual appeal
 - **Scroll-to-top button** for better navigation
@@ -160,13 +169,13 @@ This portfolio is a comprehensive demonstration of my **Full Stack Development**
 
 <div align="center">
 
-| Technology | Purpose | Skill Level |
-|------------|---------|-------------|
-| ![Next.js](https://img.shields.io/badge/Next.js-15.1.1-black?style=flat-square&logo=next.js) | **Framework** - Server-side rendering, routing, and optimization | ⭐⭐⭐⭐⭐ |
-| ![React](https://img.shields.io/badge/React-19.0.0-61DAFB?style=flat-square&logo=react) | **Library** - Component-based architecture and state management | ⭐⭐⭐⭐⭐ |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript) | **Language** - Modern JS features and best practices | ⭐⭐⭐⭐⭐ |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?style=flat-square&logo=tailwind-css) | **Styling** - Utility-first CSS framework | ⭐⭐⭐⭐⭐ |
-| ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass) | **Styling** - Advanced CSS with variables and mixins | ⭐⭐⭐⭐ |
+| Technology                                                                                                | Purpose                                                          | Skill Level |
+| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------- |
+| ![Next.js](https://img.shields.io/badge/Next.js-15.1.1-black?style=flat-square&logo=next.js)              | **Framework** - Server-side rendering, routing, and optimization | ⭐⭐⭐⭐⭐  |
+| ![React](https://img.shields.io/badge/React-19.0.0-61DAFB?style=flat-square&logo=react)                   | **Library** - Component-based architecture and state management  | ⭐⭐⭐⭐⭐  |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript)      | **Language** - Modern JS features and best practices             | ⭐⭐⭐⭐⭐  |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?style=flat-square&logo=tailwind-css) | **Styling** - Utility-first CSS framework                        | ⭐⭐⭐⭐⭐  |
+| ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass)                             | **Styling** - Advanced CSS with variables and mixins             | ⭐⭐⭐⭐    |
 
 </div>
 
@@ -213,7 +222,7 @@ This portfolio is a comprehensive demonstration of my **Full Stack Development**
 ✅ **SEO Optimization** - Meta tags and structured data  
 ✅ **Performance Optimization** - Image optimization and caching  
 ✅ **Clean Code Principles** - Readable, maintainable code  
-✅ **Git Workflow** - Version control and collaboration  
+✅ **Git Workflow** - Version control and collaboration
 
 ---
 
@@ -285,20 +294,23 @@ This portfolio is a comprehensive demonstration of my **Full Stack Development**
 
 ### 🎯 Key Design Decisions
 
-**🔹 Why Next.js 15?**  
+**🔹 Why Next.js 15?**
+
 - Server-side rendering for better SEO
 - Built-in image optimization
 - API routes for backend functionality
 - File-based routing system
 - Excellent performance out of the box
 
-**🔹 Why Component-Based Architecture?**  
+**🔹 Why Component-Based Architecture?**
+
 - Reusability across the application
 - Easier testing and maintenance
 - Clear separation of concerns
 - Scalable codebase structure
 
-**🔹 Why Separate Data Files?**  
+**🔹 Why Separate Data Files?**
+
 - Easy content updates without touching code
 - Centralized data management
 - Scalability for future features
@@ -405,6 +417,7 @@ npm run build
 # Start the production server
 npm start
 ```
+
 ---
 
 ## 🚀 Deployment
@@ -441,6 +454,7 @@ Building this portfolio has been an incredible journey! Here's what I've mastere
 ### 🎓 Technical Skills Gained
 
 ✨ **Next.js Mastery**
+
 - Deep understanding of App Router architecture
 - Server-side rendering and static site generation
 - API routes and serverless functions
@@ -448,6 +462,7 @@ Building this portfolio has been an incredible journey! Here's what I've mastere
 - SEO best practices implementation
 
 🎨 **Frontend Excellence**
+
 - Advanced React patterns and hooks
 - Component composition and reusability
 - State management best practices
@@ -456,6 +471,7 @@ Building this portfolio has been an incredible journey! Here's what I've mastere
 - SCSS preprocessing and modular styling
 
 🔧 **Backend Development**
+
 - RESTful API design
 - Form handling and validation
 - Email integration with multiple services
@@ -463,6 +479,7 @@ Building this portfolio has been an incredible journey! Here's what I've mastere
 - Error handling and logging
 
 🎭 **UI/UX Skills**
+
 - User-centered design principles
 - Accessibility standards (WCAG)
 - Animation and micro-interactions
@@ -472,18 +489,21 @@ Building this portfolio has been an incredible journey! Here's what I've mastere
 ### 🏆 Notable Achievements
 
 🎯 **Performance Optimization**
+
 - Achieved 90+ Lighthouse score
 - Implemented code splitting and lazy loading
 - Optimized images with Next.js Image component
 - Reduced initial bundle size by 40%
 
 🌐 **SEO Success**
+
 - Implemented comprehensive meta tags
 - Added structured data (JSON-LD)
 - Created dynamic sitemap
 - Optimized for Core Web Vitals
 
 📱 **Responsive Excellence**
+
 - Pixel-perfect design across all devices
 - Mobile-first approach
 - Touch-friendly interactions
@@ -506,22 +526,26 @@ This portfolio demonstrates my ability to:
 <div align="center">
 
 ### 🏠 Home Page
-*Where first impressions are made! ✨*
+
+_Where first impressions are made! ✨_
 
 ![Home Page](/public/png/homepage.png)
 
 ### 💼 Projects Section
-*Showcasing my best work! 🚀*
+
+_Showcasing my best work! 🚀_
 
 ![Projects](/public/png/projects.png)
 
 ### 🛠️ Skills Gallery
-*My technical arsenal! ⚡*
+
+_My technical arsenal! ⚡_
 
 ![Skills](/public/png/skills.png)
 
 ### 📧 Contact Form
-*Let's connect! 🤝*
+
+_Let's connect! 🤝_
 
 ![Contact](/public/png/contact.png)
 
@@ -615,8 +639,8 @@ Check out my other amazing projects:
 
 ### 🎨 My Development Philosophy
 
-> *"Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of what to do. Professionalism and craftsmanship come from values that drive disciplines."*
-> 
+> _"Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of what to do. Professionalism and craftsmanship come from values that drive disciplines."_
+>
 > **- Robert C. Martin**
 
 </div>
@@ -636,7 +660,7 @@ Whether you have a project in mind or just want to connect, feel free to reach o
 
 **Made with ❤️ by Rakib Md Osman Faruque**
 
-*Last Updated: October 2025* 📅
+_Last Updated: October 2025_ 📅
 
 ⭐ **Star this repo** if you found it helpful! ⭐
 

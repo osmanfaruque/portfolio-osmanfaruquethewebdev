@@ -11,4 +11,4 @@ export const educations = [
     duration: "2017 - 2019",
     institution: "BIAM Model School and College",
   },
-]
+];
