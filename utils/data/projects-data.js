@@ -19,7 +19,7 @@ export const projectsData = [
     },
     {
         id: 3,
-        name: 'Green Network - Gardening Community Platform',
+        name: 'Green Network - Gardening Community',
         description: 'Green Network is a community platform for gardening enthusiasts. Users can share their gardening tips, showcase their plants, and connect with other gardeners. The platform includes features like user profiles, plant care guides, and a marketplace for buying and selling plants and gardening supplies.',
         tools: ['React', 'Stripe', 'Express', 'Firebase', 'MongoDB', 'Swiper', 'tailwindCSS', 'DaisyUI', 'Node.js'],
         role: 'Full Stack Web Developer',

@@ -18,24 +18,17 @@ function ProjectCard({ project }) {
           <div className="h-2 w-2 lg:h-3 lg:w-3 rounded-full bg-orange-400"></div>
           <div className="h-2 w-2 lg:h-3 lg:w-3 rounded-full bg-green-200"></div>
         </div>
-        <p className="text-center ml-3 text-[#16f2b3] text-base lg:text-xl">
+        
+        <div className="flex items-center justify-center lg:justify-center gap-3">
+          <div className="text-center text-[#16f2b3] text-base lg:text-xl">
           {project.name}
-        </p>
-        <p className="flex justify-center w-full py-4 gap-3">
-          <Link
-            href={project.demo}
-            target='_blank'
-            className="flex justify-center items-center w-10 h-10 rounded-full border-2 border-[#EFF3F4] text-[#EFF3F4] transition-all duration-300 hover:bg-[#231d4b] hover:text-violet-600 hover:border-[#0F0C41] hover:scale-110 decoration-clone cursor-pointer no-underline delay-[0.3s]">
-            <FaPlay />
+        </div>
+          <Link href={project.demo} target='_blank' className='flex items-center '>
+            <button className='btn-icon px-2 py-1 lg:px-3 lg:py-2 bg-gradient-to-r from-pink-500 to-violet-600 text-white rounded-md text-sm lg:text-base flex items-center space-x-2 hover:scale-105 transition-transform duration-200'>
+              <span>See more</span>
+          </button>
           </Link>
-          
-          <Link
-            href={project.code}
-            target='_blank'
-            className="flex justify-center items-center w-10 h-10 rounded-full border-2 border-[#EFF3F4] text-[#EFF3F4] transition-all duration-300 hover:bg-[#231d4b] hover:text-violet-600 hover:border-[#0F0C41] hover:scale-110 cursor-pointer no-underline  delay-[0.3s] group-hover:translate-x-[-140px]">
-            <FaCode />
-          </Link>
-        </p>
+        </div>
       </div>
       <div className="overflow-hidden border-t-[2px] border-indigo-900 px-4 lg:px-8 py-4 lg:py-8">
         <code className="font-mono text-xs md:text-sm lg:text-base">
