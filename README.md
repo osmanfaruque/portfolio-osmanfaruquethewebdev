@@ -438,6 +438,25 @@ npm i -g vercel
 vercel
 ```
 
+### ⚠️ Turbopack Compatibility Note (Important)
+
+If you upgrade to newer Next.js versions (especially Next.js 16+), production build may fail when using module imports from `public/` assets.
+
+Example that can fail:
+
+```jsx
+import placeholder from "/public/png/placeholder.png";
+// or
+import placeholder from "/png/placeholder.png";
+```
+
+Recommended fix:
+
+- Do not import images from `public/` as JavaScript modules.
+- Use public URL string directly with `next/image`, e.g. `src="/png/placeholder.png"`.
+
+This avoids Turbopack module resolution errors like `Module not found` during CI/Vercel builds.
+
 ### ☁️ Other Platforms
 
 - **AWS Amplify** - Full-stack deployment
