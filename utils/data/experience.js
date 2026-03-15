@@ -2,7 +2,7 @@ export const experiences = [
   {
     id: 1,
     title: "Junior Frontend Developer",
-    company: "ScaleUp | Software development company | Onsite",
+    company: "ScaleUp It Ltd | Software development company | Onsite",
     duration: "(Nov 2025 - Present)",
   },
   {
